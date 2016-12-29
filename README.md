@@ -1,4 +1,4 @@
-# Data-Science-for-Management
+# Data Science for Management
 
 Introductory course material for Data Science for Managemnt course at the University of Firenze (2016/2017).
 
