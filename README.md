@@ -10,7 +10,7 @@ This repository is part of the Data Science for Management course I'm teaching a
 - How to use data mining in your customer database (Python & R)
 - How to segment and cluster customers (R)
 
-Moreover, during the workshops you’ll make practice with other problems and interact with true industry professionals from international companies and understand how to solve real use cases... with business in mind :-)
+Moreover, during the workshops you’ll make practice with other problems and interact with professionals from international companies and understand how to solve real use cases... with business in mind :-)
 
 Here I'm collecting notes on the preliminary [Python Course for Data Science](https://github.com/andrgig/Data-Science-for-Management/blob/master/Python%20Course%20for%20Data%20Science.ipynb) and [R course for Data Science](https://github.com/andrgig/Data-Science-for-Management/blob/master/R%20Course%20for%20Data%20Science.ipynb).
 
