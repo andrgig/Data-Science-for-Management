@@ -12,7 +12,7 @@ This repository is part of the Data Science for Management course I'm teaching a
 
 Moreover, during the workshops you’ll make practice with other problems and interact with professionals from international companies and understand how to solve real use cases... with business in mind :-)
 
-Here I'm collecting notes on the preliminary [Python Course for Data Science](https://github.com/andrgig/Data-Science-for-Management/blob/master/Python%20Course%20for%20Data%20Science.ipynb) and [R course for Data Science](https://github.com/andrgig/Data-Science-for-Management/blob/master/R%20Course%20for%20Data%20Science.ipynb).
+Here I'm collecting notes on the preliminary [Introductory Python Course for scripting](https://github.com/andrgig/Data-Science-for-Management/blob/master/Python%20Course%20for%20Data%20Science.ipynb), [Intro to Python Libraries for Data Science](https://github.com/andrgig/Data-Science-for-Management/blob/master/Python%20Libraries%20for%20Data%20Science%20-%20An%20Introduction.ipynb) and [R course for Data Science](https://github.com/andrgig/Data-Science-for-Management/blob/master/R%20Course%20for%20Data%20Science.ipynb).
 
 You can find also an [How to... ](https://github.com/andrgig/Data-Science-for-Management/blob/master/MDS%20tools.pdf) document, which you may find useful for environments set up.
 
