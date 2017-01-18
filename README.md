@@ -1,6 +1,6 @@
 # Data Science for Management
 
-This repository is part of the Data Science for Management course I'm teaching at the University of Florence (Italy) during 2016/2017 academic year. This year you’ll learn (main module language in brakets):
+This repository is part of the Data Science for Management course I'm teaching at the University of Florence during 2016/2017 academic year. This year you’ll learn (main module language in brakets):
 
 - R and Python scripting (R & Python)
 - How to explore business data (R & Python)
